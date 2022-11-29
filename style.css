@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #9ce3ee;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+a.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+}
